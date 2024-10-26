@@ -1,0 +1,4 @@
+com\efr\geometric\interfaces\FigureInterface.class
+com\efr\geometric\figure\Triangle.class
+com\efr\geometric\figure\Circle.class
+com\efr\geometric\figure\Rectangle.class

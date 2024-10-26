@@ -1,0 +1,4 @@
+com\efr\geometric\three_dimensional_figure\Pyramid.class
+com\efr\geometric\three_dimensional_figure\Cube.class
+com\efr\geometric\interfaces\ThreeDimensionalFigureInterface.class
+com\efr\geometric\three_dimensional_figure\Sphere.class
